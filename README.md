@@ -1,1 +1,1 @@
-git commit file.nya -m "pesan commit"
+git add tugas
